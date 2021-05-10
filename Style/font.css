@@ -1,0 +1,10 @@
+@font-face {
+    font-family: font1;
+    src: url(..//Fonts/PottaOne-Regular.ttf);
+}
+.font1{font-family: font1;}
+@font-face {
+    font-family: font2;
+    src: url(..//Fonts/HachiMaruPop-Regular.ttf);
+        }
+.font2{font-family: font2;}
